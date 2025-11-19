@@ -1,0 +1,6 @@
+**/*.dcp
+**/*.pdf
+**/*.iv
+**/*.ran
+c/zuc
+c/zuc_eia3
